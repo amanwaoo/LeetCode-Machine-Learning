@@ -1,3 +1,3 @@
 # LeetCode-Machine-Learning
 
-Solutions to [https://neetcode.io/practice](url) Machine Learning Problems using Python.
+Solutions to [NeetCode](https://neetcode.io/practice) Machine Learning Problems using Python.
